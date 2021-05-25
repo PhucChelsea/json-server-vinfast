@@ -1,0 +1,42 @@
+@baseUrl=http://localhost:3000/api
+@resourceName=versions
+
+
+
+# versions
+
+# @name getAllversions
+GET {{baseUrl}}/{{resourceName}}
+
+
+####
+
+# @name pagination
+GET {{baseUrl}}/{{resourceName}}?_page=1&_limit=5
+
+
+####
+
+# @name addNewversions
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "name": "SEDAN"
+}
+
+###
+
+# @name updateversions
+PATCH  {{baseUrl}}/{{resourceName}}/3
+Content-Type: application/json
+
+{
+    "name": "HATCHBACK"
+}
+
+###
+
+# @name removeversions
+DELETE  {{baseUrl}}/{{resourceName}}/4
+

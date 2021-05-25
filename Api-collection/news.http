@@ -1,0 +1,36 @@
+@baseUrl=http://localhost:3000/api
+@resourceName=news
+
+
+
+# news
+
+# @name getAllnews
+GET {{baseUrl}}/{{resourceName}}
+
+
+####
+
+# @name addNewnews
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "name": "SEDAN"
+}
+
+###
+
+# @name updatenews
+PATCH  {{baseUrl}}/{{resourceName}}/3
+Content-Type: application/json
+
+{
+    "name": "HATCHBACK"
+}
+
+###
+
+# @name removenews
+DELETE  {{baseUrl}}/{{resourceName}}/4
+

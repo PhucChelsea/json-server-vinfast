@@ -1,0 +1,313 @@
+{
+    "models": [
+        {
+            "id": 1,
+            "name": "SUV"
+        },
+        {
+            "id": 2,
+            "name": "SEDAN"
+        },
+        {
+            "id": 3,
+            "name": "HATCHBACK"
+        }
+    ],
+    "products": [
+        {
+            "model_name": "SUV",
+            "id": 1,
+            "name": "VinFast President",
+            "image": "https://storage.googleapis.com/vinfast-data-01/president.png",
+            "description": "President là chiếc SUV bề thế với thiết kế sang trọng cùng những đường gân dập nổi, lưới tản nhiệt hình kim cương ấn tượng và 18 lựa chọn màu sơn độc đáo để khẳng định khí chất riêng biệt của chủ nhân.",
+            "price": 3800000000
+        },
+        {
+            "model_name": "SUV",
+            "id": 2,
+            "name": "VinFast Lux SA 2.0",
+            "image": "https://storage.googleapis.com/vinfast-data-01/2LuxSA.png",
+            "description": "Đột phá trong từng đường nét thiết kế, đón đầu xu hướng thời thượng nhưng vẫn mang đậm bản sắc Việt, LUX SA2.0 hứa hẹn trở thành một hiện tượng mới trên đường phố, chinh phục mọi ánh nhìn.",
+            "price": 1226165000
+        },
+        {
+            "model_name": "SUV",
+            "id": 3,
+            "name": "VinFast VF E34",
+            "image": "https://storage.googleapis.com/vinfast-data-01/VFe34.png",
+            "description": "Hướng tới sự an tâm và thuận tiện tối đa cho bạn, VF e34 sẽ tự động cập nhật phần mềm xe từ xa (FOTA), cảnh báo tình trạng pin, tìm kiếm/định vị và dẫn đường tới trạm sạc.",
+            "price": 590000000
+        },
+        {
+            "model_name": "SEDAN",
+            "id": 4,
+            "name": "VinFast Lux A 2.0",
+            "image": "https://storage.googleapis.com/vinfast-data-01/LuxA_1.png",
+            "description": "Sự kết hợp giữa dáng vẻ khỏe khoắn và cấu trúc hoàn hảo của ngoại thất tạo nên điểm nhấn sang trọng nhưng vẫn đầy tinh tế cho LUX A2.0, thổi làn gió mới vào thiết kế đặc hữu của dòng sedan thông thường.",
+            "price": 881695000
+        },
+        {
+            "model_name": "SEDAN",
+            "id": 4,
+            "name": "VinFast Lux A 2.0",
+            "image": "https://storage.googleapis.com/vinfast-data-01/LuxA_1.png",
+            "description": "Sự kết hợp giữa dáng vẻ khỏe khoắn và cấu trúc hoàn hảo của ngoại thất tạo nên điểm nhấn sang trọng nhưng vẫn đầy tinh tế cho LUX A2.0, thổi làn gió mới vào thiết kế đặc hữu của dòng sedan thông thường.",
+            "price": 881695000
+        },
+        {
+            "model_name": "SEDAN",
+            "id": 4,
+            "name": "VinFast Lux A 2.0",
+            "image": "https://storage.googleapis.com/vinfast-data-01/LuxA_1.png",
+            "description": "Sự kết hợp giữa dáng vẻ khỏe khoắn và cấu trúc hoàn hảo của ngoại thất tạo nên điểm nhấn sang trọng nhưng vẫn đầy tinh tế cho LUX A2.0, thổi làn gió mới vào thiết kế đặc hữu của dòng sedan thông thường.",
+            "price": 881695000
+        },
+        {
+            "model_name": "HATCHBACK",
+            "id": 5,
+            "name": "Vinfast Fadil",
+            "image": "https://storage.googleapis.com/vinfast-data-01/fadill.png",
+            "description": "Các đường nét thiết kế mang hơi thở châu Âu hòa quyện cùng những điểm nhấn đặc trưng của tinh thần Việt tạo nên một mẫu hatchback lý tưởng cho đô thị, nhỏ gọn và thông minh, sẵn sàng chinh phục mọi cung đường thành phố.",
+            "price": 382500000
+        },
+        {
+            "model_name": "HATCHBACK",
+            "id": 5,
+            "name": "Vinfast Fadil",
+            "image": "https://storage.googleapis.com/vinfast-data-01/fadill.png",
+            "description": "Các đường nét thiết kế mang hơi thở châu Âu hòa quyện cùng những điểm nhấn đặc trưng của tinh thần Việt tạo nên một mẫu hatchback lý tưởng cho đô thị, nhỏ gọn và thông minh, sẵn sàng chinh phục mọi cung đường thành phố.",
+            "price": 382500000
+        },
+        {
+            "model_name": "HATCHBACK",
+            "id": 5,
+            "name": "Vinfast Fadil",
+            "image": "https://storage.googleapis.com/vinfast-data-01/fadill.png",
+            "description": "Các đường nét thiết kế mang hơi thở châu Âu hòa quyện cùng những điểm nhấn đặc trưng của tinh thần Việt tạo nên một mẫu hatchback lý tưởng cho đô thị, nhỏ gọn và thông minh, sẵn sàng chinh phục mọi cung đường thành phố.",
+            "price": 382500000
+        }
+    ],
+    "versions": [
+        {
+            "productId": 1,
+            "id": 66880,
+            "name_version": "VinFast President",
+            "price": 276,
+            "color": "red"
+        },
+        {
+            "productId": 1,
+            "id": 75164,
+            "name_version": "VinFast President",
+            "price": 498,
+            "color": "sky blue"
+        },
+        {
+            "productId": 1,
+            "id": 539,
+            "name_version": "VinFast President",
+            "price": 593,
+            "color": "maroon"
+        },
+        {
+            "productId": 2,
+            "id": 17682,
+            "name_version": "VinFast Lux SA 2.0 ",
+            "price": 1226165000,
+            "color": "silver"
+        },
+        {
+            "productId": 2,
+            "id": 94412,
+            "name_version": "VinFast Lux SA 2.0",
+            "price": 1226165000,
+            "color": "gold"
+        },
+        {
+            "productId": 2,
+            "id": 81559,
+            "name_version": "VinFast Lux SA 2.0",
+            "price": 1226165000,
+            "color": "blue"
+        },
+        {
+            "productId": 3,
+            "id": 9889,
+            "name_version": "VinFast VF E34",
+            "price": 590000000,
+            "color": "violet"
+        },
+        {
+            "productId": 3,
+            "id": 74933,
+            "name_version": "VinFast VF E34",
+            "price": 590000000,
+            "color": "tan"
+        },
+        {
+            "productId": 3,
+            "id": 22475,
+            "name_version": "VinFast VF E34",
+            "price": 590000000,
+            "color": "white"
+        },
+        {
+            "productId": 4,
+            "id": 91508,
+            "name_version": "VinFast Lux A 2.0",
+            "price": 881695000,
+            "color": "violet"
+        },
+        {
+            "productId": 4,
+            "id": 27644,
+            "name_version": "VinFast Lux A 2.0",
+            "price": 881695000,
+            "color": "salmon"
+        },
+        {
+            "productId": 4,
+            "id": 99334,
+            "name_version": "VinFast Lux A 2.0",
+            "price": 881695000,
+            "color": "gold"
+        },
+        {
+            "productId": 4,
+            "id": 47629,
+            "name_version": "VinFast Lux A 2.0",
+            "price": 881695000,
+            "color": "salmon"
+        },
+        {
+            "productId": 4,
+            "id": 69123,
+            "name_version": "VinFast Lux A 2.0",
+            "price": 881695000,
+            "color": "grey"
+        },
+        {
+            "productId": 4,
+            "id": 15690,
+            "name_version": "VinFast Lux A 2.0",
+            "price": 881695000,
+            "color": "plum"
+        },
+        {
+            "productId": 4,
+            "id": 62041,
+            "name_version": "VinFast Lux A 2.0",
+            "price": 881695000,
+            "color": "black"
+        },
+        {
+            "productId": 4,
+            "id": 89033,
+            "name_version": "VinFast Lux A 2.0",
+            "price":881695000,
+            "color": "tan"
+        },
+        {
+            "productId": 4,
+            "id": 23804,
+            "name_version": "VinFast Lux A 2.0",
+            "price": 881695000,
+            "color": "lavender"
+        },
+        {
+            "productId": 5,
+            "id": 16422,
+            "name_version": "Vinfast Fadil",
+            "price": 382500000,
+            "color": "indigo"
+        },
+        {
+            "productId": 5,
+            "id": 71158,
+            "name_version": "Vinfast Fadil",
+            "price": 382500000,
+            "color": "turquoise"
+        },
+        {
+            "productId": 5,
+            "id": 48147,
+            "name_version": "Vinfast Fadil",
+            "price": 382500000,
+            "color": "magenta"
+        },
+        {
+            "productId": 5,
+            "id": 17072,
+            "name_version": "Vinfast Fadil",
+            "price": 382500000,
+            "color": "yellow"
+        },
+        {
+            "productId": 5,
+            "id": 3666,
+            "name_version": "Vinfast Fadil",
+            "price": 382500000,
+            "color": "turquoise"
+        },
+        {
+            "productId": 5,
+            "id": 70981,
+            "name_version": "Vinfast Fadil",
+            "price": 382500000,
+            "color": "azure"
+        },
+        {
+            "productId": 5,
+            "id": 74170,
+            "name_version": "Vinfast Fadil",
+            "price": 382500000,
+            "color": "lime"
+        },
+        {
+            "productId": 5,
+            "id": 15197,
+            "name_version": "Vinfast Fadil",
+            "price": 382500000,
+            "color": "silver"
+        },
+        {
+            "productId": 5,
+            "id": 80330,
+            "name_version": "Vinfast Fadil",
+            "price": 382500000,
+            "color": "sky blue"
+        }
+    ],
+    "news": [
+        {
+            "id": 10,
+            "title": "CÔNG NGHỆ THONG MINH CHO TƯƠNG LAI",
+            "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_1.webp",
+            "description": "trăng"
+        },
+        {
+            "id": 11,
+            "title": "THIẾT KẾ ĐẦY ĐAM MÊ",
+            "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_2.webp",
+            "description": "Hương tím giày đập kim tàu hương ác. Đã ba chìm ờ tủ. Viết giày anh lỗi phá giày là không chỉ."
+        },
+        {
+            "id": 12,
+            "title": "ĐẲNG CẤP AN TOÀN QUỐC TẾ",
+            "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_3.webp",
+            "description": "Mây thuê tím cửa chết làm hóa tám anh. Bơi thuê hàng đập. Ghét được tám bàn đập đá thì chỉ ác kim.\n \rĐộc gió lầu nhà bè đỏ năm việc đạp phá. Giày năm biết hết nha thì đã đánh vàng. Vẽ máy vàng xanh máy nhà ba.\n \rXe đồng trăng quê thuyền vẽ thuyền. Xuồng nón lầu anh đang đang việc vàng. Bạn quần độc biển tôi khoảng kim ngọt. Thương vá quần kim."
+        },
+        {
+            "id": 13,
+            "title": "TRẢI NGHIỆM XUẤT SẮC",
+            "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_4.webp",
+            "description": "Đâu thích chín không mượn một đạp.\nLầu hai biển đạp khâu.\nĐánh thuyền con biết khoan là tím thôi.\nGhét em con tui ngọt đồng."
+        },
+        {
+            "id": 14,
+            "title": "CHÍNH SÁCH THẤU HIỂU",
+            "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_5.webp",
+            "description": "Đâu hàng bốn làm năm lỗi nghỉ hết viết. Tôi xuồng khoan ghét nước trăng bảy. Quần tô bàn đâu. Ờ là á mây. Quần thế mây mượn gì vàng trăng một ừ. Vẽ may biển việc yêu gì đâu bè được."
+        }
+    ]
+}

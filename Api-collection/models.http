@@ -1,0 +1,36 @@
+@baseUrl=http://localhost:3000/api
+@resourceName=models
+
+
+
+# models
+
+# @name getAllmodels
+GET {{baseUrl}}/{{resourceName}}
+
+
+####
+
+# @name addNewModels
+POST {{baseUrl}}/{{resourceName}}
+Content-Type: application/json
+
+{
+    "name": "SEDAN"
+}
+
+###
+
+# @name updateModels
+PATCH  {{baseUrl}}/{{resourceName}}/3
+Content-Type: application/json
+
+{
+    "name": "HATCHBACK"
+}
+
+###
+
+# @name removeModels
+DELETE  {{baseUrl}}/{{resourceName}}/4
+
