@@ -23,7 +23,7 @@ const randomNewList = (n) => {
   });
   return newList;
 };
-///
+// ///
 
 const radomModelList = (n) => {
   if (n <= 0) return [];
@@ -84,7 +84,7 @@ const randomVersionList = (productList, numberOfVersions) => {
 (() => {
   // random data
   const modelList = radomModelList(3);
-  const productList = randomProductList(modelList, 3);
+  const productList = randomProductList(modelList, 2);
   const versionList = randomVersionList(productList, 3);
   const newList = randomNewList(5);
 
