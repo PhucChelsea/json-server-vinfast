@@ -1,0 +1,12 @@
+@baseUrl = http://localhost:3000/api
+@resourceName=products
+
+
+
+
+# products
+
+# @name getAllproducts
+GET {{baseUrl}}/{{resourceName}}
+
+###
