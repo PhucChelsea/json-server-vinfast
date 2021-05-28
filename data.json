@@ -5,27 +5,15 @@
                 "id": 1,
                 "name": "Lux SA 2.0",
                 "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw233ab177/images/vfast/hinh-anh-VinFast-Lux-SA2.0-gia-danh-gia-noi-that-thong-so.png",
-                "exterior": [
-                    {
-                        "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw616fde5d/images/Lux-SA/hinh-anh-gia-VinFast-Lux-SA2.0-ban-tieu-chuan-base-tra-gop-mau-do-red.png",
-                        "title": "MẠNH MẼ & NĂNG ĐỘNG",
-                        "description": "Đột phá trong từng đường nét thiết kế, đón đầu xu hướng thời thượng nhưng vẫn mang đậm bản sắc Việt, LUX SA2.0 hứa hẹn trở thành một hiện tượng mới trên đường phố, chinh phục mọi ánh nhìn."
-                    }
-                ],
-                "furniture": [
-                    {
-                        "image": "https://vinfasthathanh.com/wp-content/uploads/2020/11/noi-that-xe-vinfast-lux-sa.jpg",
-                        "title": "LINH HOẠT & HIỆN ĐẠI",
-                        "description": "Khoang hành khách của LUX SA2.0 nổi bật với không gian rộng rãi, chất liệu nội thất cao cấp cùng nhiều tiện ích thông minh phục vụ người lái và hành khách."
-                    }
-                ],
-                "engine": [
-                    {
-                        "image": "https://vinfasthathanh.com/wp-content/uploads/2020/11/dong-co-xe-vinfast-lux-sa-7-cho.jpg",
-                        "title": "MÃNH LIỆT CHINH PHỤC TỪNG CUNG ĐƯỜNG",
-                        "description": "Sức mạnh của động cơ kết hợp cùng hàng loạt công nghệ an toàn tiên tiến, LUX SA 2.0 mang đến khả năng vận hành ưu việt, hoàn toàn tự tin cùng chủ nhân rẽ lối tiên phong, dấn thân vào những cuộc chơi lớn, luôn nổi bật từ đường phố đô thị đến địa hình mang tính thách thức"
-                    }
-                ]
+                "image_exterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw616fde5d/images/Lux-SA/hinh-anh-gia-VinFast-Lux-SA2.0-ban-tieu-chuan-base-tra-gop-mau-do-red.png",
+                "title_exterior": "MẠNH MẼ & NĂNG ĐỘNG",
+                "description_exterior": "Đột phá trong từng đường nét thiết kế, đón đầu xu hướng thời thượng nhưng vẫn mang đậm bản sắc Việt, LUX SA2.0 hứa hẹn trở thành một hiện tượng mới trên đường phố, chinh phục mọi ánh nhìn.",
+                "image_furniture": "https://vinfasthathanh.com/wp-content/uploads/2020/11/noi-that-xe-vinfast-lux-sa.jpg",
+                "title_furniture": "LINH HOẠT & HIỆN ĐẠI",
+                "description_furniture": "Khoang hành khách của LUX SA2.0 nổi bật với không gian rộng rãi, chất liệu nội thất cao cấp cùng nhiều tiện ích thông minh phục vụ người lái và hành khách.",
+                "image_engine": "https://vinfasthathanh.com/wp-content/uploads/2020/11/dong-co-xe-vinfast-lux-sa-7-cho.jpg",
+                "title_engine": "MÃNH LIỆT CHINH PHỤC TỪNG CUNG ĐƯỜNG",
+                "description_engine": "Sức mạnh của động cơ kết hợp cùng hàng loạt công nghệ an toàn tiên tiến, LUX SA 2.0 mang đến khả năng vận hành ưu việt, hoàn toàn tự tin cùng chủ nhân rẽ lối tiên phong, dấn thân vào những cuộc chơi lớn, luôn nổi bật từ đường phố đô thị đến địa hình mang tính thách thức"
             }
         ],
         "luxA20": [
@@ -33,27 +21,15 @@
                 "id": 2,
                 "name": "Lux A 2.0",
                 "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw5280b7f5/images/vfast/hinh-anh-dang-ky-lai-thu-VinFast-Lux-A2.0.png",
-                "exterior": [
-                    {
-                        "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dwbdd0e76b/images/Lux-A/hinh-anh-gia-xe-VinFast-Lux-A2.0-ban-tieu-chuan-mau-do-mystique-red.png",
-                        "title": "KHỎE KHOẮN & SANG TRỌNG",
-                        "description": "Sự kết hợp giữa dáng vẻ khỏe khoắn và cấu trúc hoàn hảo của ngoại thất tạo nên điểm nhấn sang trọng nhưng vẫn đầy tinh tế cho LUX A2.0, thổi làn gió mới vào thiết kế đặc hữu của dòng sedan thông thường."
-                    }
-                ],
-                "furniture": [
-                    {
-                        "image": "https://vinfast.vin/wp-content/uploads/noi-that-xe-oto-vinfast-lux-a.jpg",
-                        "title": "TIỆN NGHI & ĐẲNG CẤP",
-                        "description": "Chất liệu sang trọng, trau chuốt trong từng chi tiết, trang bị tiện nghi tiên tiến, tất cả làm nên một không gian đẳng cấp dành cho người lái và hành khách trên LUX A2.0."
-                    }
-                ],
-                "engine": [
-                    {
-                        "image": "https://vinfast.vin/wp-content/uploads/dong-co-xe-vinfast-lux-sa-7-cho.jpg",
-                        "title": "MẠNH MẼ & ÊM ÁI",
-                        "description": "Sức mạnh 228 mã lực từ khối động cơ 2.0L tăng áp, kết hợp cùng hộp số tự động 8 cấp ZF và hàng loạt công nghệ an toàn tiên tiến, LUX A 2.0 mang đến khả năng vận hành chắc chắn, tự tin cùng chủ nhân chinh phục những cột mốc thành công."
-                    }
-                ]
+                "image_exterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dwbdd0e76b/images/Lux-A/hinh-anh-gia-xe-VinFast-Lux-A2.0-ban-tieu-chuan-mau-do-mystique-red.png",
+                "title_exterior": "KHỎE KHOẮN & SANG TRỌNG",
+                "description_exterior": "Sự kết hợp giữa dáng vẻ khỏe khoắn và cấu trúc hoàn hảo của ngoại thất tạo nên điểm nhấn sang trọng nhưng vẫn đầy tinh tế cho LUX A2.0, thổi làn gió mới vào thiết kế đặc hữu của dòng sedan thông thường.",
+                "image_furniture": "https://vinfast.vin/wp-content/uploads/noi-that-xe-oto-vinfast-lux-a.jpg",
+                "title_furniture": "TIỆN NGHI & ĐẲNG CẤP",
+                "description_furniture": "Chất liệu sang trọng, trau chuốt trong từng chi tiết, trang bị tiện nghi tiên tiến, tất cả làm nên một không gian đẳng cấp dành cho người lái và hành khách trên LUX A2.0.",
+                "image_engine": "https://vinfast.vin/wp-content/uploads/dong-co-xe-vinfast-lux-sa-7-cho.jpg",
+                "title_engine": "MẠNH MẼ & ÊM ÁI",
+                "description_engine": "Sức mạnh 228 mã lực từ khối động cơ 2.0L tăng áp, kết hợp cùng hộp số tự động 8 cấp ZF và hàng loạt công nghệ an toàn tiên tiến, LUX A 2.0 mang đến khả năng vận hành chắc chắn, tự tin cùng chủ nhân chinh phục những cột mốc thành công."
             }
         ],
         "fadil": [
@@ -61,27 +37,15 @@
                 "id": 3,
                 "name": "Fadil",
                 "image": "https://vinfastotoviet.com/wp-content/uploads/2021/01/VFFadil01.png",
-                "exterior": [
-                    {
-                        "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw0ca94be5/images/Fadil/Hinh-anh-Mua-xe-VinFast-Fadil-ban-nang-cao-tra-gop-mau-do-Red.png",
-                        "title": "HIỆN ĐẠI & NĂNG ĐỘNG",
-                        "description": "Các đường nét thiết kế mang hơi thở châu Âu hòa quyện cùng những điểm nhấn đặc trưng của tinh thần Việt tạo nên một mẫu hatchback lý tưởng cho đô thị, nhỏ gọn và thông minh, sẵn sàng chinh phục mọi cung đường thành phố."
-                    }
-                ],
-                "furniture": [
-                    {
-                        "image": "https://otovinfast-chevrolet.com/Content/Uploads/images/fadil-n%E1%BB%99i-th%E1%BA%A5t-otovinfast-chevrolet_vn%20(9).jpg",
-                        "title": "THOẢI MÁI & TIỆN DỤNG",
-                        "description": "Chú trọng trải nghiệm của người dùng, Fadil mang đến khoang ngồi thoải mái bên trong một kích cỡ nhỏ gọn và đậm chất đô thị. Đồng thời tích hợp hệ thống tiện ích tiện dụng, hỗ trợ tối đa cho hành khách trên xe."
-                    }
-                ],
-                "engine": [
-                    {
-                        "image": "https://cms-i.autodaily.vn/du-lieu/2019/06/06/a2.jpg",
-                        "title": "AN TOÀN & THÔNG MINH",
-                        "description": "Tự tin lướt qua mọi con phố, an tâm trên những hành trình dài với động cơ 1.4L cùng hàng loạt tích hợp công nghệ thông minh và tiện dụng giúp tăng cường trải nghiệm lái. Hơn hết là hệ thống an toàn vượt trội nhất phân khúc, cho bạn vững tay lái trên mọi cung đường."
-                    }
-                ]
+                "image_exterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw0ca94be5/images/Fadil/Hinh-anh-Mua-xe-VinFast-Fadil-ban-nang-cao-tra-gop-mau-do-Red.png",
+                "title_exterior": "HIỆN ĐẠI & NĂNG ĐỘNG",
+                "description_exterior": "Các đường nét thiết kế mang hơi thở châu Âu hòa quyện cùng những điểm nhấn đặc trưng của tinh thần Việt tạo nên một mẫu hatchback lý tưởng cho đô thị, nhỏ gọn và thông minh, sẵn sàng chinh phục mọi cung đường thành phố.",
+                "image_furniture": "https://otovinfast-chevrolet.com/Content/Uploads/images/fadil-n%E1%BB%99i-th%E1%BA%A5t-otovinfast-chevrolet_vn%20(9).jpg",
+                "title_furniture": "THOẢI MÁI & TIỆN DỤNG",
+                "description_furniture": "Chú trọng trải nghiệm của người dùng, Fadil mang đến khoang ngồi thoải mái bên trong một kích cỡ nhỏ gọn và đậm chất đô thị. Đồng thời tích hợp hệ thống tiện ích tiện dụng, hỗ trợ tối đa cho hành khách trên xe.",
+                "image_engine": "https://cms-i.autodaily.vn/du-lieu/2019/06/06/a2.jpg",
+                "title_engine": "AN TOÀN & THÔNG MINH",
+                "description_engine": "Tự tin lướt qua mọi con phố, an tâm trên những hành trình dài với động cơ 1.4L cùng hàng loạt tích hợp công nghệ thông minh và tiện dụng giúp tăng cường trải nghiệm lái. Hơn hết là hệ thống an toàn vượt trội nhất phân khúc, cho bạn vững tay lái trên mọi cung đường."
             }
         ],
         "president": [
@@ -89,27 +53,15 @@
                 "id": 4,
                 "name": "President",
                 "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dwac5ca505/images/vfast/Hinh-anh-xe-SUV-VinFast-President-gia-xe-thong-so-bang-mau-dong-co-v8.jpg",
-                "exterior": [
-                    {
-                        "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw348d234e/images/President/hinh-anh-gia-xe-SUV-VinFast-President-dong-co-V8-mau-den-Jet-black.png",
-                        "title": "MẠNH MẼ & SANG TRỌNG",
-                        "description": "President là chiếc SUV bề thế với thiết kế sang trọng cùng những đường gân dập nổi, lưới tản nhiệt hình kim cương ấn tượng và 18 lựa chọn màu sơn độc đáo để khẳng định khí chất riêng biệt của chủ nhân."
-                    }
-                ],
-                "furniture": [
-                    {
-                        "image": "https://vinfasthathanh.com/wp-content/uploads/2021/04/vinfast-president-noi-that-02.jpg",
-                        "title": "LỊCH LÃM & TINH TẾ",
-                        "description": "Hàng ghế sau lùi thêm 20cm, mang đến không gian tiêu chuẩn thương gia và sự kết hợp hài hoà của các chất liệu cao cấp, nội thất của President tạo cảm giác sang trọng, lịch lãm và tinh tế trong từng đường nét."
-                    }
-                ],
-                "engine": [
-                    {
-                        "image": "https://vinfasthathanh.com/wp-content/uploads/2021/04/dong-co-v5-tren-vinfast-president.jpg",
-                        "title": "UY LỰC & AN TOÀN",
-                        "description": "Là một trong những mẫu xe thương mại mạnh nhất thị trường, President sở hữu động cơ V8 6.2L đạt 420 mã lực mang lại trải nghiệm vận hành uy lực mà êm ái. Cùng với những công nghệ an toàn tân tiến, President sẽ đồng hành cùng chủ nhân bứt phá & chinh phục hành trình đi tới thành công."
-                    }
-                ]
+                "image_exterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw348d234e/images/President/hinh-anh-gia-xe-SUV-VinFast-President-dong-co-V8-mau-den-Jet-black.png",
+                "title_exterior": "MẠNH MẼ & SANG TRỌNG",
+                "description_exterior": "President là chiếc SUV bề thế với thiết kế sang trọng cùng những đường gân dập nổi, lưới tản nhiệt hình kim cương ấn tượng và 18 lựa chọn màu sơn độc đáo để khẳng định khí chất riêng biệt của chủ nhân.",
+                "image_furniture": "https://vinfasthathanh.com/wp-content/uploads/2021/04/vinfast-president-noi-that-02.jpg",
+                "title_furniture": "LỊCH LÃM & TINH TẾ",
+                "description_furniture": "Hàng ghế sau lùi thêm 20cm, mang đến không gian tiêu chuẩn thương gia và sự kết hợp hài hoà của các chất liệu cao cấp, nội thất của President tạo cảm giác sang trọng, lịch lãm và tinh tế trong từng đường nét.",
+                "image_engine": "https://vinfasthathanh.com/wp-content/uploads/2021/04/dong-co-v5-tren-vinfast-president.jpg",
+                "title_engine": "UY LỰC & AN TOÀN",
+                "description_engine": "Là một trong những mẫu xe thương mại mạnh nhất thị trường, President sở hữu động cơ V8 6.2L đạt 420 mã lực mang lại trải nghiệm vận hành uy lực mà êm ái. Cùng với những công nghệ an toàn tân tiến, President sẽ đồng hành cùng chủ nhân bứt phá & chinh phục hành trình đi tới thành công."
             }
         ],
         "vfe34": [
@@ -117,27 +69,15 @@
                 "id": 5,
                 "name": "VF e34",
                 "image": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dwc4c15de9/images/vfe34/Hinh-anh-Uu-dai-dat-coc-VinFast-VFe34.jpg",
-                "exterior": [
-                    {
-                        "image": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dwe655176f/images/vfe34/Hinh-anh-Ung-dung-VinFast-VFe34-ket-noi.jpg",
-                        "title": "",
-                        "description": ""
-                    }
-                ],
-                "furniture": [
-                    {
-                        "image": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dw282b9652/images/vfe34/Hinh-anh-Ung-dung-xe-oto-dien-VinFast-VFe34-thong-minh.png",
-                        "title": "",
-                        "description": ""
-                    }
-                ],
-                "engine": [
-                    {
-                        "image": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dw49d16782/images/vfe34/Hinh-anh-Thong-so-ky-thuat-xe-dien-VinFast-VFe34.jpg",
-                        "title": "",
-                        "description": ""
-                    }
-                ]
+                "image_exterior": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dwe655176f/images/vfe34/Hinh-anh-Ung-dung-VinFast-VFe34-ket-noi.jpg",
+                "title_exterior": "ĐIỀU KHIỂN BẰNG GIỌNG NÓI",
+                "description_exterior": "Với khả năng nhận diện giọng nói bằng tiếng Việt, không phân biệt vùng miền, VF e34 nghe bạn để điều chỉnh điều hòa và hệ thống giải trí, trở thành vị trợ lý ảo đáng tin cậy trên mọi hành trình.",
+                "image_furniture": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dw282b9652/images/vfe34/Hinh-anh-Ung-dung-xe-oto-dien-VinFast-VFe34-thong-minh.png",
+                "title_furniture": "TỰ HỌC, GHI NHỚ VÀ ĐỀ XUẤT",
+                "description_furniture": "Ứng dụng trí tuệ nhân tạo, VF e34 mở ra kỷ nguyên di chuyển của tương lai khi có khả năng tự học, ghi nhớ và đề xuất hệ thống điều hoà và giải trí, đem đến sự hứng khởi cho mọi chủ nhân.",
+                "image_engine": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dw49d16782/images/vfe34/Hinh-anh-Thong-so-ky-thuat-xe-dien-VinFast-VFe34.jpg",
+                "title_engine": "ỨNG DỤNG QUẢN LÝ XE THÔNG MINH",
+                "description_engine": "Hướng tới sự an tâm và thuận tiện tối đa cho bạn, VF e34 sẽ tự động cập nhật phần mềm xe từ xa (FOTA), cảnh báo tình trạng pin, tìm kiếm/định vị và dẫn đường tới trạm sạc."
             }
         ]
     },
