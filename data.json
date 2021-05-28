@@ -1,6 +1,6 @@
 {
     "products": {
-        "luxSA20": {
+        "luxSA20": [{
             "id": 1,
             "name": "Lux SA 2.0",
             "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw233ab177/images/vfast/hinh-anh-VinFast-Lux-SA2.0-gia-danh-gia-noi-that-thong-so.png",
@@ -19,8 +19,8 @@
                 "title": "MÃNH LIỆT CHINH PHỤC TỪNG CUNG ĐƯỜNG",
                 "description": "Sức mạnh của động cơ kết hợp cùng hàng loạt công nghệ an toàn tiên tiến, LUX SA 2.0 mang đến khả năng vận hành ưu việt, hoàn toàn tự tin cùng chủ nhân rẽ lối tiên phong, dấn thân vào những cuộc chơi lớn, luôn nổi bật từ đường phố đô thị đến địa hình mang tính thách thức"
             }
-        },
-        "luxA20": {
+        }],
+        "luxA20": [{
             "id": 2,
             "name": "Lux A 2.0",
             "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw5280b7f5/images/vfast/hinh-anh-dang-ky-lai-thu-VinFast-Lux-A2.0.png",
@@ -39,8 +39,8 @@
                 "title": "MẠNH MẼ & ÊM ÁI",
                 "description": "Sức mạnh 228 mã lực từ khối động cơ 2.0L tăng áp, kết hợp cùng hộp số tự động 8 cấp ZF và hàng loạt công nghệ an toàn tiên tiến, LUX A 2.0 mang đến khả năng vận hành chắc chắn, tự tin cùng chủ nhân chinh phục những cột mốc thành công."
             }
-        },
-        "fadil": {
+        }],
+        "fadil": [{
             "id": 3,
             "name": "Fadil",
             "image": "https://vinfastotoviet.com/wp-content/uploads/2021/01/VFFadil01.png",
@@ -59,7 +59,7 @@
                 "title": "AN TOÀN & THÔNG MINH",
                 "description": "Tự tin lướt qua mọi con phố, an tâm trên những hành trình dài với động cơ 1.4L cùng hàng loạt tích hợp công nghệ thông minh và tiện dụng giúp tăng cường trải nghiệm lái. Hơn hết là hệ thống an toàn vượt trội nhất phân khúc, cho bạn vững tay lái trên mọi cung đường."
             }
-        },
+        }],
         "president": {
             "id": 4,
             "name": "President",
@@ -80,7 +80,7 @@
                 "description": "Là một trong những mẫu xe thương mại mạnh nhất thị trường, President sở hữu động cơ V8 6.2L đạt 420 mã lực mang lại trải nghiệm vận hành uy lực mà êm ái. Cùng với những công nghệ an toàn tân tiến, President sẽ đồng hành cùng chủ nhân bứt phá & chinh phục hành trình đi tới thành công."
             }
         },
-        "vfe34": {
+        "vfe34": [{
             "id": 5,
             "name": "VF e34",
             "image": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dwc4c15de9/images/vfe34/Hinh-anh-Uu-dai-dat-coc-VinFast-VFe34.jpg",
@@ -99,7 +99,7 @@
                 "title": "",
                 "description": ""
             }
-        }
+        }]
     },
     "versions": {
         "LuxSA20": [
