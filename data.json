@@ -1,195 +1,195 @@
 {
     "products": {
-        "luxSA20": {
-            "id": 1,
-            "name": "Lux SA 2.0",
-            "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw233ab177/images/vfast/hinh-anh-VinFast-Lux-SA2.0-gia-danh-gia-noi-that-thong-so.png",
-            "image_exterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw616fde5d/images/Lux-SA/hinh-anh-gia-VinFast-Lux-SA2.0-ban-tieu-chuan-base-tra-gop-mau-do-red.png",
-            "title_exterior": "MẠNH MẼ & NĂNG ĐỘNG",
-            "description_exterior": "Đột phá trong từng đường nét thiết kế, đón đầu xu hướng thời thượng nhưng vẫn mang đậm bản sắc Việt, LUX SA2.0 hứa hẹn trở thành một hiện tượng mới trên đường phố, chinh phục mọi ánh nhìn.",
-            "image_furniture": "https://vinfasthathanh.com/wp-content/uploads/2020/11/noi-that-xe-vinfast-lux-sa.jpg",
-            "title_furniture": "LINH HOẠT & HIỆN ĐẠI",
-            "description_furniture": "Khoang hành khách của LUX SA2.0 nổi bật với không gian rộng rãi, chất liệu nội thất cao cấp cùng nhiều tiện ích thông minh phục vụ người lái và hành khách.",
-            "image_engine": "https://vinfasthathanh.com/wp-content/uploads/2020/11/dong-co-xe-vinfast-lux-sa-7-cho.jpg",
-            "title_engine": "MÃNH LIỆT CHINH PHỤC TỪNG CUNG ĐƯỜNG",
-            "description_engine": "Sức mạnh của động cơ kết hợp cùng hàng loạt công nghệ an toàn tiên tiến, LUX SA 2.0 mang đến khả năng vận hành ưu việt, hoàn toàn tự tin cùng chủ nhân rẽ lối tiên phong, dấn thân vào những cuộc chơi lớn, luôn nổi bật từ đường phố đô thị đến địa hình mang tính thách thức"
+        "LuxSA20": {
+            "ID": 1,
+            "Name": "Lux SA 2.0",
+            "Image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw233ab177/images/vfast/hinh-anh-VinFast-Lux-SA2.0-gia-danh-gia-noi-that-thong-so.png",
+            "ImageExterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw616fde5d/images/Lux-SA/hinh-anh-gia-VinFast-Lux-SA2.0-ban-tieu-chuan-base-tra-gop-mau-do-red.png",
+            "TitleExterior": "MẠNH MẼ & NĂNG ĐỘNG",
+            "DescriptionExterior": "Đột phá trong từng đường nét thiết kế, đón đầu xu hướng thời thượng nhưng vẫn mang đậm bản sắc Việt, LUX SA2.0 hứa hẹn trở thành một hiện tượng mới trên đường phố, chinh phục mọi ánh nhìn.",
+            "ImageFurniture": "https://vinfasthathanh.com/wp-content/uploads/2020/11/noi-that-xe-vinfast-lux-sa.jpg",
+            "TitleFurniture": "LINH HOẠT & HIỆN ĐẠI",
+            "DescriptionFurniture": "Khoang hành khách của LUX SA2.0 nổi bật với không gian rộng rãi, chất liệu nội thất cao cấp cùng nhiều tiện ích thông minh phục vụ người lái và hành khách.",
+            "ImageEngine": "https://vinfasthathanh.com/wp-content/uploads/2020/11/dong-co-xe-vinfast-lux-sa-7-cho.jpg",
+            "TitleEngine": "MÃNH LIỆT CHINH PHỤC TỪNG CUNG ĐƯỜNG",
+            "DescriptionEngine": "Sức mạnh của động cơ kết hợp cùng hàng loạt công nghệ an toàn tiên tiến, LUX SA 2.0 mang đến khả năng vận hành ưu việt, hoàn toàn tự tin cùng chủ nhân rẽ lối tiên phong, dấn thân vào những cuộc chơi lớn, luôn nổi bật từ đường phố đô thị đến địa hình mang tính thách thức"
         },
-        "luxA20": {
-            "id": 2,
-            "name": "Lux A 2.0",
-            "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw5280b7f5/images/vfast/hinh-anh-dang-ky-lai-thu-VinFast-Lux-A2.0.png",
-            "image_exterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dwbdd0e76b/images/Lux-A/hinh-anh-gia-xe-VinFast-Lux-A2.0-ban-tieu-chuan-mau-do-mystique-red.png",
-            "title_exterior": "KHỎE KHOẮN & SANG TRỌNG",
-            "description_exterior": "Sự kết hợp giữa dáng vẻ khỏe khoắn và cấu trúc hoàn hảo của ngoại thất tạo nên điểm nhấn sang trọng nhưng vẫn đầy tinh tế cho LUX A2.0, thổi làn gió mới vào thiết kế đặc hữu của dòng sedan thông thường.",
-            "image_furniture": "https://vinfast.vin/wp-content/uploads/noi-that-xe-oto-vinfast-lux-a.jpg",
-            "title_furniture": "TIỆN NGHI & ĐẲNG CẤP",
-            "description_furniture": "Chất liệu sang trọng, trau chuốt trong từng chi tiết, trang bị tiện nghi tiên tiến, tất cả làm nên một không gian đẳng cấp dành cho người lái và hành khách trên LUX A2.0.",
-            "image_engine": "https://vinfast.vin/wp-content/uploads/dong-co-xe-vinfast-lux-sa-7-cho.jpg",
-            "title_engine": "MẠNH MẼ & ÊM ÁI",
-            "description_engine": "Sức mạnh 228 mã lực từ khối động cơ 2.0L tăng áp, kết hợp cùng hộp số tự động 8 cấp ZF và hàng loạt công nghệ an toàn tiên tiến, LUX A 2.0 mang đến khả năng vận hành chắc chắn, tự tin cùng chủ nhân chinh phục những cột mốc thành công."
+        "LuxA20": {
+            "ID": 2,
+            "Name": "Lux A 2.0",
+            "Image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw5280b7f5/images/vfast/hinh-anh-dang-ky-lai-thu-VinFast-Lux-A2.0.png",
+            "ImageExterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dwbdd0e76b/images/Lux-A/hinh-anh-gia-xe-VinFast-Lux-A2.0-ban-tieu-chuan-mau-do-mystique-red.png",
+            "TitleExterior": "KHỎE KHOẮN & SANG TRỌNG",
+            "DescriptionExterior": "Sự kết hợp giữa dáng vẻ khỏe khoắn và cấu trúc hoàn hảo của ngoại thất tạo nên điểm nhấn sang trọng nhưng vẫn đầy tinh tế cho LUX A2.0, thổi làn gió mới vào thiết kế đặc hữu của dòng sedan thông thường.",
+            "ImageFurniture": "https://vinfast.vin/wp-content/uploads/noi-that-xe-oto-vinfast-lux-a.jpg",
+            "TitleFurniture": "TIỆN NGHI & ĐẲNG CẤP",
+            "DescriptionFurniture": "Chất liệu sang trọng, trau chuốt trong từng chi tiết, trang bị tiện nghi tiên tiến, tất cả làm nên một không gian đẳng cấp dành cho người lái và hành khách trên LUX A2.0.",
+            "ImageEngine": "https://vinfast.vin/wp-content/uploads/dong-co-xe-vinfast-lux-sa-7-cho.jpg",
+            "TitleEngine": "MẠNH MẼ & ÊM ÁI",
+            "DescriptionEngine": "Sức mạnh 228 mã lực từ khối động cơ 2.0L tăng áp, kết hợp cùng hộp số tự động 8 cấp ZF và hàng loạt công nghệ an toàn tiên tiến, LUX A 2.0 mang đến khả năng vận hành chắc chắn, tự tin cùng chủ nhân chinh phục những cột mốc thành công."
         },
-        "fadil": {
-            "id": 3,
-            "name": "Fadil",
-            "image": "https://vinfastotoviet.com/wp-content/uploads/2021/01/VFFadil01.png",
-            "image_exterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw0ca94be5/images/Fadil/Hinh-anh-Mua-xe-VinFast-Fadil-ban-nang-cao-tra-gop-mau-do-Red.png",
-            "title_exterior": "HIỆN ĐẠI & NĂNG ĐỘNG",
-            "description_exterior": "Các đường nét thiết kế mang hơi thở châu Âu hòa quyện cùng những điểm nhấn đặc trưng của tinh thần Việt tạo nên một mẫu hatchback lý tưởng cho đô thị, nhỏ gọn và thông minh, sẵn sàng chinh phục mọi cung đường thành phố.",
-            "image_furniture": "https://otovinfast-chevrolet.com/Content/Uploads/images/fadil-n%E1%BB%99i-th%E1%BA%A5t-otovinfast-chevrolet_vn%20(9).jpg",
-            "title_furniture": "THOẢI MÁI & TIỆN DỤNG",
-            "description_furniture": "Chú trọng trải nghiệm của người dùng, Fadil mang đến khoang ngồi thoải mái bên trong một kích cỡ nhỏ gọn và đậm chất đô thị. Đồng thời tích hợp hệ thống tiện ích tiện dụng, hỗ trợ tối đa cho hành khách trên xe.",
-            "image_engine": "https://cms-i.autodaily.vn/du-lieu/2019/06/06/a2.jpg",
-            "title_engine": "AN TOÀN & THÔNG MINH",
-            "description_engine": "Tự tin lướt qua mọi con phố, an tâm trên những hành trình dài với động cơ 1.4L cùng hàng loạt tích hợp công nghệ thông minh và tiện dụng giúp tăng cường trải nghiệm lái. Hơn hết là hệ thống an toàn vượt trội nhất phân khúc, cho bạn vững tay lái trên mọi cung đường."
+        "Fadil": {
+            "ID": 3,
+            "Name": "Fadil",
+            "Image": "https://vinfastotoviet.com/wp-content/uploads/2021/01/VFFadil01.png",
+            "ImageExterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw0ca94be5/images/Fadil/Hinh-anh-Mua-xe-VinFast-Fadil-ban-nang-cao-tra-gop-mau-do-Red.png",
+            "TitleExterior": "HIỆN ĐẠI & NĂNG ĐỘNG",
+            "DescriptionExterior": "Các đường nét thiết kế mang hơi thở châu Âu hòa quyện cùng những điểm nhấn đặc trưng của tinh thần Việt tạo nên một mẫu hatchback lý tưởng cho đô thị, nhỏ gọn và thông minh, sẵn sàng chinh phục mọi cung đường thành phố.",
+            "ImageFurniture": "https://otovinfast-chevrolet.com/Content/Uploads/images/fadil-n%E1%BB%99i-th%E1%BA%A5t-otovinfast-chevrolet_vn%20(9).jpg",
+            "TitleFurniture": "THOẢI MÁI & TIỆN DỤNG",
+            "DescriptionFurniture": "Chú trọng trải nghiệm của người dùng, Fadil mang đến khoang ngồi thoải mái bên trong một kích cỡ nhỏ gọn và đậm chất đô thị. Đồng thời tích hợp hệ thống tiện ích tiện dụng, hỗ trợ tối đa cho hành khách trên xe.",
+            "ImageEngine": "https://cms-i.autodaily.vn/du-lieu/2019/06/06/a2.jpg",
+            "TitleEngine": "AN TOÀN & THÔNG MINH",
+            "DescriptionEngine": "Tự tin lướt qua mọi con phố, an tâm trên những hành trình dài với động cơ 1.4L cùng hàng loạt tích hợp công nghệ thông minh và tiện dụng giúp tăng cường trải nghiệm lái. Hơn hết là hệ thống an toàn vượt trội nhất phân khúc, cho bạn vững tay lái trên mọi cung đường."
         },
-        "president": {
-            "id": 4,
-            "name": "President",
-            "image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dwac5ca505/images/vfast/Hinh-anh-xe-SUV-VinFast-President-gia-xe-thong-so-bang-mau-dong-co-v8.jpg",
-            "image_exterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw348d234e/images/President/hinh-anh-gia-xe-SUV-VinFast-President-dong-co-V8-mau-den-Jet-black.png",
-            "title_exterior": "MẠNH MẼ & SANG TRỌNG",
-            "description_exterior": "President là chiếc SUV bề thế với thiết kế sang trọng cùng những đường gân dập nổi, lưới tản nhiệt hình kim cương ấn tượng và 18 lựa chọn màu sơn độc đáo để khẳng định khí chất riêng biệt của chủ nhân.",
-            "image_furniture": "https://vinfasthathanh.com/wp-content/uploads/2021/04/vinfast-president-noi-that-02.jpg",
-            "title_furniture": "LỊCH LÃM & TINH TẾ",
-            "description_furniture": "Hàng ghế sau lùi thêm 20cm, mang đến không gian tiêu chuẩn thương gia và sự kết hợp hài hoà của các chất liệu cao cấp, nội thất của President tạo cảm giác sang trọng, lịch lãm và tinh tế trong từng đường nét.",
-            "image_engine": "https://vinfasthathanh.com/wp-content/uploads/2021/04/dong-co-v5-tren-vinfast-president.jpg",
-            "title_engine": "UY LỰC & AN TOÀN",
-            "description_engine": "Là một trong những mẫu xe thương mại mạnh nhất thị trường, President sở hữu động cơ V8 6.2L đạt 420 mã lực mang lại trải nghiệm vận hành uy lực mà êm ái. Cùng với những công nghệ an toàn tân tiến, President sẽ đồng hành cùng chủ nhân bứt phá & chinh phục hành trình đi tới thành công."
+        "President": {
+            "ID": 4,
+            "Name": "President",
+            "Image": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dwac5ca505/images/vfast/Hinh-anh-xe-SUV-VinFast-President-gia-xe-thong-so-bang-mau-dong-co-v8.jpg",
+            "ImageExterior": "https://shop.vinfastauto.com/on/demandware.static/-/Sites-app_vinfast_vn-Library/default/dw348d234e/images/President/hinh-anh-gia-xe-SUV-VinFast-President-dong-co-V8-mau-den-Jet-black.png",
+            "TitleExterior": "MẠNH MẼ & SANG TRỌNG",
+            "DescriptionExterior": "President là chiếc SUV bề thế với thiết kế sang trọng cùng những đường gân dập nổi, lưới tản nhiệt hình kim cương ấn tượng và 18 lựa chọn màu sơn độc đáo để khẳng định khí chất riêng biệt của chủ nhân.",
+            "ImageFurniture": "https://vinfasthathanh.com/wp-content/uploads/2021/04/vinfast-president-noi-that-02.jpg",
+            "TitleFurniture": "LỊCH LÃM & TINH TẾ",
+            "DescriptionFurniture": "Hàng ghế sau lùi thêm 20cm, mang đến không gian tiêu chuẩn thương gia và sự kết hợp hài hoà của các chất liệu cao cấp, nội thất của President tạo cảm giác sang trọng, lịch lãm và tinh tế trong từng đường nét.",
+            "ImageEngine": "https://vinfasthathanh.com/wp-content/uploads/2021/04/dong-co-v5-tren-vinfast-president.jpg",
+            "TitleEngine": "UY LỰC & AN TOÀN",
+            "DescriptionEngine": "Là một trong những mẫu xe thương mại mạnh nhất thị trường, President sở hữu động cơ V8 6.2L đạt 420 mã lực mang lại trải nghiệm vận hành uy lực mà êm ái. Cùng với những công nghệ an toàn tân tiến, President sẽ đồng hành cùng chủ nhân bứt phá & chinh phục hành trình đi tới thành công."
         },
-        "vfe34": {
-            "id": 5,
-            "name": "VF e34",
-            "image": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dwc4c15de9/images/vfe34/Hinh-anh-Uu-dai-dat-coc-VinFast-VFe34.jpg",
-            "image_exterior": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dwe655176f/images/vfe34/Hinh-anh-Ung-dung-VinFast-VFe34-ket-noi.jpg",
-            "title_exterior": "ĐIỀU KHIỂN BẰNG GIỌNG NÓI",
-            "description_exterior": "Với khả năng nhận diện giọng nói bằng tiếng Việt, không phân biệt vùng miền, VF e34 nghe bạn để điều chỉnh điều hòa và hệ thống giải trí, trở thành vị trợ lý ảo đáng tin cậy trên mọi hành trình.",
-            "image_furniture": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dw282b9652/images/vfe34/Hinh-anh-Ung-dung-xe-oto-dien-VinFast-VFe34-thong-minh.png",
-            "title_furniture": "TỰ HỌC, GHI NHỚ VÀ ĐỀ XUẤT",
-            "description_furniture": "Ứng dụng trí tuệ nhân tạo, VF e34 mở ra kỷ nguyên di chuyển của tương lai khi có khả năng tự học, ghi nhớ và đề xuất hệ thống điều hoà và giải trí, đem đến sự hứng khởi cho mọi chủ nhân.",
-            "image_engine": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dw49d16782/images/vfe34/Hinh-anh-Thong-so-ky-thuat-xe-dien-VinFast-VFe34.jpg",
-            "title_engine": "ỨNG DỤNG QUẢN LÝ XE THÔNG MINH",
-            "description_engine": "Hướng tới sự an tâm và thuận tiện tối đa cho bạn, VF e34 sẽ tự động cập nhật phần mềm xe từ xa (FOTA), cảnh báo tình trạng pin, tìm kiếm/định vị và dẫn đường tới trạm sạc."
+        "Vfe34": {
+            "ID": 5,
+            "Name": "VF e34",
+            "Image": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dwc4c15de9/images/vfe34/Hinh-anh-Uu-dai-dat-coc-VinFast-VFe34.jpg",
+            "ImageExterior": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dwe655176f/images/vfe34/Hinh-anh-Ung-dung-VinFast-VFe34-ket-noi.jpg",
+            "TitleExterior": "ĐIỀU KHIỂN BẰNG GIỌNG NÓI",
+            "DescriptionExterior": "Với khả năng nhận diện giọng nói bằng tiếng Việt, không phân biệt vùng miền, VF e34 nghe bạn để điều chỉnh điều hòa và hệ thống giải trí, trở thành vị trợ lý ảo đáng tin cậy trên mọi hành trình.",
+            "ImageFurniture": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dw282b9652/images/vfe34/Hinh-anh-Ung-dung-xe-oto-dien-VinFast-VFe34-thong-minh.png",
+            "TitleFurniture": "TỰ HỌC, GHI NHỚ VÀ ĐỀ XUẤT",
+            "DescriptionFurniture": "Ứng dụng trí tuệ nhân tạo, VF e34 mở ra kỷ nguyên di chuyển của tương lai khi có khả năng tự học, ghi nhớ và đề xuất hệ thống điều hoà và giải trí, đem đến sự hứng khởi cho mọi chủ nhân.",
+            "ImageEngine": "https://shop.vinfastauto.com/on/demandware.static/Sites-app_vinfast_vn-Site/-/default/dw49d16782/images/vfe34/Hinh-anh-Thong-so-ky-thuat-xe-dien-VinFast-VFe34.jpg",
+            "TitleEngine": "ỨNG DỤNG QUẢN LÝ XE THÔNG MINH",
+            "DescriptionEngine": "Hướng tới sự an tâm và thuận tiện tối đa cho bạn, VF e34 sẽ tự động cập nhật phần mềm xe từ xa (FOTA), cảnh báo tình trạng pin, tìm kiếm/định vị và dẫn đường tới trạm sạc."
         }
     },
-        "versions": {
-            "LuxSA20": [
-                {
-                    "id": 1,
-                    "products_Id": 1,
-                    "name": "Lux SA 2.0 tiêu chuẩn",
-                    "price": 1226165000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-sa-2-05032021_0005_LUX-SA-2-do5.jpg"
-                },
-                {
-                    "id": 2,
-                    "products_Id": 1,
-                    "name": "Lux SA 2.0 nâng cao",
-                    "price": 1298840000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-sa-2-05032021_0001_LUX-SA-2-n5.jpg"
-                },
-                {
-                    "id": 3,
-                    "products_Id": 1,
-                    "name": "Lux SA 2.0 cao cấp",
-                    "price": 1451600000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-sa-2-05032021_0006_LUX-SA-2-dt5.jpg"
-                }
-            ],
-            "LuxA20": [
-                {
-                    "id": 1,
-                    "products_Id": 2,
-                    "name": "Lux A 2.0 tiêu chuẩn",
-                    "price": 881695000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-a2-05032021_0007_lux-a2-do5.jpg"
-                },
-                {
-                    "id": 2,
-                    "products_Id": 2,
-                    "name": "Lux A 2.0 nâng cao",
-                    "price": 948575000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-a2-05032021_0003_lux-a2-b5.jpg"
-                },
-                {
-                    "id": 3,
-                    "products_Id": 2,
-                    "name": "Lux A 2.0 cao cấp",
-                    "price": 1075450000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-a2-05032021_0001_lux-a2-t5.jpg"
-                }
-            ],
-            "Fadil": [
-                {
-                    "id": 1,
-                    "products_Id": 3,
-                    "name": "Fadil tiêu chuẩn",
-                    "price": 382500000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/fadil-05032021_0005_fadil-red-dark.jpg"
-                },
-                {
-                    "id": 2,
-                    "products_Id": 3,
-                    "name": "Fadil nâng cao",
-                    "price": 413100000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/fadil-05032021_0000_fadil-green-dark.jpg"
-                },
-                {
-                    "id": 3,
-                    "products_Id": 3,
-                    "name": "Fadil cao cấp",
-                    "price": 449100000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/fadil-05032021_0001_fadil-blue.jpg"
-                }
-            ],
-            "President": [
-                {
-                    "id": 1,
-                    "Product_Id": 4,
-                    "name": "President",
-                    "price": 3800000000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/president_0008_president-white.jpg"
-                }
-            ],
-            "VFe34": [
-                {
-                    "id": 1,
-                    "Product_Id": 5,
-                    "name": "VF e34",
-                    "price": 590000000,
-                    "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/vfe34_0001_Layer-13.jpg"
-                }
-            ]
-        },
-        "news": [
+    "versions": {
+        "LuxSA20": [
             {
-                "id": 10,
-                "title": "CÔNG NGHỆ THONG MINH CHO TƯƠNG LAI",
-                "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_1.webp",
-                "description": "trăng"
+                "id": 1,
+                "products_Id": 1,
+                "name": "Lux SA 2.0 tiêu chuẩn",
+                "price": 1226165000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-sa-2-05032021_0005_LUX-SA-2-do5.jpg"
             },
             {
-                "id": 11,
-                "title": "THIẾT KẾ ĐẦY ĐAM MÊ",
-                "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_2.webp",
-                "description": "Hương tím giày đập kim tàu hương ác. Đã ba chìm ờ tủ. Viết giày anh lỗi phá giày là không chỉ."
+                "id": 2,
+                "products_Id": 1,
+                "name": "Lux SA 2.0 nâng cao",
+                "price": 1298840000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-sa-2-05032021_0001_LUX-SA-2-n5.jpg"
             },
             {
-                "id": 12,
-                "title": "ĐẲNG CẤP AN TOÀN QUỐC TẾ",
-                "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_3.webp",
-                "description": "Mây thuê tím cửa chết làm hóa tám anh. Bơi thuê hàng đập. Ghét được tám bàn đập đá thì chỉ ác kim.\n \rĐộc gió lầu nhà bè đỏ năm việc đạp phá. Giày năm biết hết nha thì đã đánh vàng. Vẽ máy vàng xanh máy nhà ba.\n \rXe đồng trăng quê thuyền vẽ thuyền. Xuồng nón lầu anh đang đang việc vàng. Bạn quần độc biển tôi khoảng kim ngọt. Thương vá quần kim."
+                "id": 3,
+                "products_Id": 1,
+                "name": "Lux SA 2.0 cao cấp",
+                "price": 1451600000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-sa-2-05032021_0006_LUX-SA-2-dt5.jpg"
+            }
+        ],
+        "LuxA20": [
+            {
+                "id": 1,
+                "products_Id": 2,
+                "name": "Lux A 2.0 tiêu chuẩn",
+                "price": 881695000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-a2-05032021_0007_lux-a2-do5.jpg"
             },
             {
-                "id": 13,
-                "title": "TRẢI NGHIỆM XUẤT SẮC",
-                "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_4.webp",
-                "description": "Đâu thích chín không mượn một đạp.\nLầu hai biển đạp khâu.\nĐánh thuyền con biết khoan là tím thôi.\nGhét em con tui ngọt đồng."
+                "id": 2,
+                "products_Id": 2,
+                "name": "Lux A 2.0 nâng cao",
+                "price": 948575000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-a2-05032021_0003_lux-a2-b5.jpg"
             },
             {
-                "id": 14,
-                "title": "CHÍNH SÁCH THẤU HIỂU",
-                "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_5.webp",
-                "description": "Đăm lỗi nghỉ hết viết. Tôi xuồng khoan ghét nước trăng bảy. Quần tô bàn đâu. Ờ là á mây. Quần thế mây mượn gì vàng trăng một ừ. Vẽ may biển việc yêu gì đâu bè được."
+                "id": 3,
+                "products_Id": 2,
+                "name": "Lux A 2.0 cao cấp",
+                "price": 1075450000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/lux-a2-05032021_0001_lux-a2-t5.jpg"
+            }
+        ],
+        "Fadil": [
+            {
+                "id": 1,
+                "products_Id": 3,
+                "name": "Fadil tiêu chuẩn",
+                "price": 382500000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/fadil-05032021_0005_fadil-red-dark.jpg"
+            },
+            {
+                "id": 2,
+                "products_Id": 3,
+                "name": "Fadil nâng cao",
+                "price": 413100000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/fadil-05032021_0000_fadil-green-dark.jpg"
+            },
+            {
+                "id": 3,
+                "products_Id": 3,
+                "name": "Fadil cao cấp",
+                "price": 449100000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/fadil-05032021_0001_fadil-blue.jpg"
+            }
+        ],
+        "President": [
+            {
+                "id": 1,
+                "Product_Id": 4,
+                "name": "President",
+                "price": 3800000000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/president_0008_president-white.jpg"
+            }
+        ],
+        "VFe34": [
+            {
+                "id": 1,
+                "Product_Id": 5,
+                "name": "VF e34",
+                "price": 590000000,
+                "image": "https://vinfasthathanh.com/wp-content/uploads/2021/03/vfe34_0001_Layer-13.jpg"
             }
         ]
-    }
+    },
+    "news": [
+        {
+            "id": 10,
+            "title": "CÔNG NGHỆ THONG MINH CHO TƯƠNG LAI",
+            "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_1.webp",
+            "description": "trăng"
+        },
+        {
+            "id": 11,
+            "title": "THIẾT KẾ ĐẦY ĐAM MÊ",
+            "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_2.webp",
+            "description": "Hương tím giày đập kim tàu hương ác. Đã ba chìm ờ tủ. Viết giày anh lỗi phá giày là không chỉ."
+        },
+        {
+            "id": 12,
+            "title": "ĐẲNG CẤP AN TOÀN QUỐC TẾ",
+            "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_3.webp",
+            "description": "Mây thuê tím cửa chết làm hóa tám anh. Bơi thuê hàng đập. Ghét được tám bàn đập đá thì chỉ ác kim.\n \rĐộc gió lầu nhà bè đỏ năm việc đạp phá. Giày năm biết hết nha thì đã đánh vàng. Vẽ máy vàng xanh máy nhà ba.\n \rXe đồng trăng quê thuyền vẽ thuyền. Xuồng nón lầu anh đang đang việc vàng. Bạn quần độc biển tôi khoảng kim ngọt. Thương vá quần kim."
+        },
+        {
+            "id": 13,
+            "title": "TRẢI NGHIỆM XUẤT SẮC",
+            "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_4.webp",
+            "description": "Đâu thích chín không mượn một đạp.\nLầu hai biển đạp khâu.\nĐánh thuyền con biết khoan là tím thôi.\nGhét em con tui ngọt đồng."
+        },
+        {
+            "id": 14,
+            "title": "CHÍNH SÁCH THẤU HIỂU",
+            "image": "https://storage.googleapis.com/vinfast-data-01/top_slide_5.webp",
+            "description": "Đăm lỗi nghỉ hết viết. Tôi xuồng khoan ghét nước trăng bảy. Quần tô bàn đâu. Ờ là á mây. Quần thế mây mượn gì vàng trăng một ừ. Vẽ may biển việc yêu gì đâu bè được."
+        }
+    ]
+}
